@@ -4,7 +4,7 @@
 
 
 
-setwd("C:\\Users\\cnr\\Documents\\School\\Senior Fall 2014\\CMDA 3654 (Data Analytics and Visual)\\R scripts\\CMDA")
+setwd("C:\\Users\\cnr\\Documents\\School\\Senior Fall 2014\\CMDA 3654 (Data Analytics and Visual)\\R scripts\\CMDA\\CMDA_indiv")
 
 cardata = read.table('cars1.csv', sep=',', header=T)
 
